@@ -1,0 +1,3 @@
+[submodule "posemir"]
+	path = posemir
+	url = https://github.com/otsob/posemir
